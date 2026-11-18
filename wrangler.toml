@@ -11,4 +11,4 @@ binding = "KV"    #KV绑定名默认不可修改
 id = "0a6a1ba5adbd4a1396e76dc755936537"    #KV数据库id
 
 [vars]
-UUID = "7c2e4a1b-9d3f-4a6e-8b21-5f8d3c7a9e14"
+UUID = "bf31c55b-6fb0-4920-9a51-121d73747769"
